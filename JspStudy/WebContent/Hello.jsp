@@ -15,6 +15,6 @@
 %>
 <hr>
 str의 값 출력 = <%=str %>
->>>>>>> refs/heads/hotfix
+refs/heads/hotfix
 </body>
 </html>
